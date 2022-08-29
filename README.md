@@ -1,143 +1,88 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+# Startpage [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+> When you start your web browser, at least one web page is opened automatically. This page is called Startpage. A Startpage can be set to specific websites or can be customized as you like. Here you will find a curated list of customized Startpages.
 
-Hey there 👋
+## Contents
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+- [Projects](#projects)
+  - [GitHub Pages](#github-pages)
+  - [Hosted](#hosted)
+  - [Static](#static)
+  - [Firefox Specific](#firefox-specific)
+  - [Chrome Add-Ons](#chrome-add-ons)
+  - [Firefox Add-Ons](#firefox-add-ons)
+- [Links](#links)
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+---
 
-## 📝 Latest Blog Posts
+## Projects
 
-<br>
+### GitHub Pages
 
-<!-- BLOG-POST-LIST:START -->
-- [5 Basic Tips for Angular Unit Testing](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)
-- [Learn How to Click a Button when Angular Unit Testing](https://braydoncoyer.dev/blog/learn-how-to-click-a-button-when-angular-unit-testing)
-- [Enable Autocomplete for Tailwind CSS in VSCode](https://braydoncoyer.dev/blog/enable-autocomplete-for-tailwind-css-in-vscode)
-- [What Makes a Unit Test Valuable?](https://braydoncoyer.dev/blog/what-makes-a-unit-test-valuable)
-- [You Don&#39;t Need a CS Degree to Land a Web Development Job](https://braydoncoyer.dev/blog/you-don't-need-a-cs-degree-to-land-a-web-development-job)
-<!-- BLOG-POST-LIST:END -->
+- [Bento](https://github.com/MiguelRAvila/Bento) - Bento is an local/self-hosted tile-based clean startpage.
+- [Dashy](https://github.com/Lissy93/dashy) - Feature-rish, self-hosted start page for your browser or homelab.
+- [fluidity](https://github.com/PrettyCoffee/fluidity) - Super smooth and stylish startpage. Tuned aesthetic.
+- [Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night) - Pretty sophisticated startpage, hosted on GitHub Pages.
+- [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) - Classic startpage layout. Extensive customizability. 
 
-<br>
+### Hosted
 
-## 📌 Pinned Repositories
+- [flame](https://github.com/pawelmalak/flame) - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use. 
+- [Galax's Startpage](https://github.com/Galax028/startpage) - A minimal startpage made in React.js with customizable bookmarks.
+- [Heimdall](https://github.com/linuxserver/Heimdall) - Server-service based application orientated dashboard.
+- [Jump](https://github.com/daledavies/jump) - Self-hosted startpage designed to be simple, stylish, fast and secure.
+- [Organizr](https://github.com/causefx/Organizr) - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
+- [pomme-page](https://github.com/kikiklang/pomme-page) - Pretty cool startpage with colorful tiles.
+- [startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) - Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations 
+- [root](https://github.com/imreyesjorge/root-startpage) - Root is a start-page aimed to simplicity and elegance.
+- [Minimalist-Startpage](https://github.com/ropoko/Startpage) - Minimalist startpage with light/dark theme, also useful to change between searchers.
+- [Modular Grid Page](https://github.com/timothypholmes/startup-page) - Modular Grid Start Page for your Browser. 
 
-<br>
+### Static
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+- [b-w-kitty](https://github.com/PrettyCoffee/b-w-kitty) - Very creative and customizable startpage, not only for catlovers.
+- [Chicago Startpage](https://github.com/timothypholmes/start-page-chicago) - Clean startpage with moody video backgrounds.
+- [grtcdr's startpages](https://github.com/grtcdr/startpages) - grtcdr's awesome collection of clean, good looking, startpages. Love the Nodric one!
+- [hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
+- [HeavyRain266's Startpage](https://github.com/HeavyRain266/startpage) - Yet another minimal startpage 
+- [HomeTerm](https://github.com/Jaredk3nt/HomeTerm) - A homepage disguised as a toy terminal.
+- [Jaredk3nt's homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser.
+- [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) - Minimalistic light/darkish startpage
+- [Modular Startpage](https://github.com/timothypholmes/startup-page) - Grid startpage with many different component panels.
+- [null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
+- [search](https://github.com/l0bsters/search) - Search offers you an tangle of nodes for your bookmarks. 
+- [StartTree](https://github.com/Paul-Houser/StartTree) - A terminal-style home page replicating the tree command, modified from this start page, which no longer exists.
+- [StartOS](https://github.com/Jaredk3nt/startos) - A different take on startpages. StartOS will bring you back the 90s.
+- [Tea Green](https://github.com/sadparadiseinhell/tea-green) - Startpage with Weather and To-Do List features.
+- [the-glorious-startpage](https://github.com/manilarome/the-glorious-startpage/) - A bloated and modern-looking startpage. Responsive, Weather, Dynamic Background and many more.
+- [Tilde Enhanced](https://github.com/Ozencb/tilde-enhanced) - A minimal startpage for your browser.
+- [startpage-onedark](https://github.com/AbdelrhmanNile/startpage-onedark) - A minimal customizable startpage with the OneDark color palette.
 
-<br>
+### Firefox-Specific
 
-<a href="https://github.com/braydoncoyer/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+- [min-nord-firefox](https://github.com/not-a-dev-stein/min-nord-firefox) - A minimalist startpage for Firefox with the Nord color pallette.
+- [startpage](https://github.com/rajshekhar26/startpage) - Minimalist local startpage with an tidy folder-like view.
 
-<br>
+### Chrome Add-Ons
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+- [Bonjourr](https://chrome.google.com/webstore/detail/bonjourr/dlnejlppicbjfcfcedcflplfjajinajd) - iOS and open source styled StartPage. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)
+- [Derigo Dash](https://chrome.google.com/webstore/detail/derigo-dash/aiadgflpmkcihappkfkbgehghkiadnip) - Customize your browser startpage with a user friendly interface
+- [hexagonTab](https://chrome.google.com/webstore/detail/hexagontab/hjapnkiokjkamfjenbdagacmpkobjlgi) - Save bookmarks to your start page on a unique hexagonal grid. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hexagontab/)
+- [New Tab Redirect](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna) - Allows a user to provide the URL of the page that loads in a new tab.
+- [mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers.
+- [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) -  A minimal starpage for Chrome and Firefox.
+- [nightTab](https://chrome.google.com/webstore/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki) - A highly customisable neutral new tab page accented with a chosen colour. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nighttab/).
 
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
-<br>
-<br>
+### Firefox Add-Ons
 
-## &#x1f4c8; GitHub Stats
+- [startpage](https://addons.mozilla.org/en-US/firefox/addon/square-startpage/) - Overrides the browser's newtab-page with a custom startpage.
 
-<br>
+## Links
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+- [/r/startpages](https://www.reddit.com/r/startpages/)
+- [/r/unixporn](https://www.reddit.com/r/unixporn/)
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
+## Contributing
 
-<br>
-<br>
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
-<details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Pivotal-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
-
-</details>
-
-<br>
-
-## 📣 How about an Office quote before you go?
-
-> I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
->
-> <p>- Dwight Schrute</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
+- [contribution guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md)
