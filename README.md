@@ -5,7 +5,7 @@
 
 ### cgv mini project
 
-- [independence day](https://github.com/pavan1cyber/cgv-miniproject-acharya-independence-day)
+- [opengl independence day](https://github.com/pavan1cyber/cgv-miniproject-acharya-independence-day)
 
 ### android project application dns locator
 
@@ -15,7 +15,7 @@
 
 ### dbms miniproject food parcel
 
-- [flame](https://github.com/pavan1cyber/dbms-foodaparcel-2021)
+- [dbms php sql](https://github.com/pavan1cyber/dbms-foodaparcel-2021)
 
 
 <!--
