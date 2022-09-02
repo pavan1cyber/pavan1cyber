@@ -1,6 +1,21 @@
 # Startpage [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
+## Projects
+
+### cgv mini project
+
+- [independence day](https://github.com/pavan1cyber/cgv-miniproject-acharya-independence-day)
+
+### android project application dns locator
+
+- [java](https://github.com/pavan1cyber/android-app-device-ip-locator)
+
+
+
+### dbms miniproject food parcel
+
+- [flame](https://github.com/pavan1cyber/dbms-foodaparcel-2021)
 
 
 <!--
