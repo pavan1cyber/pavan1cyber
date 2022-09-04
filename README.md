@@ -27,7 +27,7 @@
    
    ##### Tools and Technologies >  
    &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/vscode.png" alt="VScode" width="50"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/182px-Node.js_logo.svg.png" alt="nodejs" width="50"/>
    &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/git.png" alt="Git" width="50"/>
    &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/github.png" alt="Github" width="50"/>
 
