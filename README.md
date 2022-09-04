@@ -27,7 +27,7 @@
    
    ##### Tools and Technologies >  
    &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/vscode.png" alt="VScode" width="50"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/windows.png" alt="Windows" width="50"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="50"/>
    &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/git.png" alt="Git" width="50"/>
    &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/github.png" alt="Github" width="50"/>
 
