@@ -16,18 +16,16 @@
 
 <br/>
 
-### Skills and Utilities⚙️
+### Skills and Utilities
 
   ##### Languages >
    &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/js.png" alt="Javascript" width="50"/>
    &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/html.png" alt="HTML" width="50"/>
    &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/css.png" alt="CSS" width="50"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/sass.png" alt="SASS" width="50"/>
    &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/python.png" alt="Python" width="60"/>
    &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/c.png" alt="C" width="50"/>
    
    ##### Tools and Technologies >  
-   
    &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/vscode.png" alt="VScode" width="50"/>
    &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/windows.png" alt="Windows" width="50"/>
    &nbsp;&nbsp;&nbsp;&nbsp;<img src="/icons/git.png" alt="Git" width="50"/>
@@ -35,14 +33,14 @@
 
 <br />
 
-### Find Me🧩
+### Find Me
 
 <!--
    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/xdinil_h"><img src="/icons/instagram.png" alt="instagram" width="45"/></a>
    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pinterest.com/Hdr_Xrube"><img src="/icons/pinterest.png" alt="Pinterest" width="48"/></a>
    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://behance.net/dinilrubasinghe"><img src="/icons/behance.png" alt="Behance" width="48"/></a>
 -->
-   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/pavan1cyber"><img src="/icons/github.png" alt="Github" width="45"/></a>
+   mail : pavank.19.becs@acharya.ac.in
 
 
 
