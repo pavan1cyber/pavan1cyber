@@ -4,7 +4,7 @@
 
 <br/>
 
-### About me😎
+### About me
 
   &nbsp;&nbsp;&nbsp;&nbsp; I’m a **Web developer** using Javascript Frameworks.    
   
